@@ -1,0 +1,10 @@
+computer,2000.00
+ipad,1000.00
+tablet,800.00
+smartwatch,1500.00
+smartphone,2500.00
+printer,500.00
+scanner,300.00
+keyboard,150.00
+mouse,100.00
+pendrive,50.00

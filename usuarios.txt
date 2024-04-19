@@ -1,0 +1,10 @@
+raquel,rachel@gmail.com,20
+marcel,marcel@gmail.com,21
+luis,luis@gmail.com,22
+carol,carol@gmail.com,23
+rodrigo,rodrigo@gmail.com,24
+demetrio,demetrio@gmail.com,25
+davi,davi@gmail.com,26
+gustavo,gustavo@gmail.com,27
+matheus,matheus@gmail.com,28
+mariana,mariana@gmail.com,29
